@@ -219,3 +219,15 @@ Das Projekt wird aktiv entwickelt!
    - Was behoben wurde
    - Zukunftspläne
 
+7. **[💾 Save Manager - Datenschutz](./posts/07-save-manager-complete.md)** 🆕
+   - Speicherdateiverwaltung
+   - Automatische Backups
+   - Auto-Clean Funktion
+   - Bereinigungsanleitung
+
+8. **[🏁 FINALE - Ultimate Manager v3.0](./posts/08-ultimate-final.md)** 🆕
+   - Entwicklungsabschluss
+   - Projektergebnisse (50+ Funktionen, 8000+ Zeilen Dokumentation)
+   - Alle Module kombiniert
+   - Statistiken und Erfolge
+
